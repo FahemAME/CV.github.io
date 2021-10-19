@@ -1,4 +1,5 @@
 ## Développeur
 # Fahem AMEZIANE
-'ffff.dz'
+'ffff.dz' "de"
+
 Mes compétences et mes projets réalisés.
